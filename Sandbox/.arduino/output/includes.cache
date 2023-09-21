@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/aslakoverengiveland/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/aslakoverengiveland/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/aslakoverengiveland/Documents/IELS1001/arduinotest/project-course-h2023/Sandbox/.arduino/output/sketch/ledstrip.ino.cpp",
+    "Include": "Adafruit_NeoPixel.h",
+    "Includepath": "/Users/aslakoverengiveland/Documents/Arduino/libraries/Adafruit_NeoPixel"
+  },
+  {
+    "Sourcefile": "/Users/aslakoverengiveland/Documents/IELS1001/arduinotest/project-course-h2023/Sandbox/.arduino/output/sketch/ledstrip.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/aslakoverengiveland/Documents/Arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/aslakoverengiveland/Documents/Arduino/libraries/Adafruit_NeoPixel/esp.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/aslakoverengiveland/Documents/Arduino/libraries/Adafruit_NeoPixel/esp8266.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/aslakoverengiveland/Documents/Arduino/libraries/Adafruit_NeoPixel/kendyte_k210.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

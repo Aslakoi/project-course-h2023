@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/Users/aslakoverengiveland/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/aslakoverengiveland/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/aslakoverengiveland/Documents/IELS1001/arduinotest/project-course-h2023/Sandbox/ledstrip"
+}
